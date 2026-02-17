@@ -2,7 +2,7 @@
 
 _I'm gonna be honest, I'm really mostly on [GitLab](https://gitlab.com/chrisforrence)._
 
-I'm a Software Architect and Software Engineering Manager in Atlanta, where I work with pretty cool technology!
+I'm a Director of Engineering in Atlanta, where I work with pretty cool technology!
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on a Fire Emblem Twitch game!
